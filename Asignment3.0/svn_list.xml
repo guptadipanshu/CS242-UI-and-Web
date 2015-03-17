@@ -1,0 +1,2384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa14-cs242/dgupta13">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Makefile</name>
+<size>78</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/dvector.c</name>
+<size>14663</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp3_code.c</name>
+<size>1009</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/partner.txt</name>
+<size>10</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/results.txt</name>
+<size>460</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/teamname.txt</name>
+<size>7</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/version.txt</name>
+<size>2</size>
+<commit
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/.classpath</name>
+<size>372</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/.project</name>
+<size>370</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/.settings</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/bin</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/bin/com</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/bin/com/chess</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/bin/com/chess/game</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Bishop.class</name>
+<size>3405</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Board.class</name>
+<size>4112</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Empty.class</name>
+<size>1048</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/King.class</name>
+<size>3092</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Knight.class</name>
+<size>3341</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Pawn.class</name>
+<size>3073</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Piece.class</name>
+<size>6042</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Queen.class</name>
+<size>2620</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/chess/game/Rook.class</name>
+<size>2752</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/bin/com/test</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/BishopTest.class</name>
+<size>3783</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/CheckMateTest.class</name>
+<size>2879</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/KingTest.class</name>
+<size>3843</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/KnightTest.class</name>
+<size>3729</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/PawnTest.class</name>
+<size>3360</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/QueenTest.class</name>
+<size>4829</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/bin/com/test/RookTest.class</name>
+<size>4586</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/src</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/src/com</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/src/com/chess</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/src/com/chess/game</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Bishop.java</name>
+<size>3937</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Board.java</name>
+<size>4081</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Empty.java</name>
+<size>729</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/King.java</name>
+<size>3600</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Knight.java</name>
+<size>4254</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Pawn.java</name>
+<size>3174</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Piece.java</name>
+<size>7010</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Queen.java</name>
+<size>2095</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/chess/game/Rook.java</name>
+<size>3068</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/src/com/test</name>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/BishopTest.java</name>
+<size>4276</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/CheckMateTest.java</name>
+<size>2916</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/KingTest.java</name>
+<size>4516</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/KnightTest.java</name>
+<size>4416</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/PawnTest.java</name>
+<size>3848</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/QueenTest.java</name>
+<size>4833</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/src/com/test/RookTest.java</name>
+<size>4619</size>
+<commit
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Image</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Image/black</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/black/bishop.png</name>
+<size>1260</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/black/king.png</name>
+<size>2267</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/black/knight.png</name>
+<size>1516</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/black/pawn.png</name>
+<size>797</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/black/queen.png</name>
+<size>2485</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/black/rook.png</name>
+<size>725</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Image/white</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/white/bishop.png</name>
+<size>1944</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/white/king.png</name>
+<size>2637</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/white/knight.png</name>
+<size>1878</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/white/pawn.png</name>
+<size>1294</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/white/queen.png</name>
+<size>2279</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Image/white/rook.png</name>
+<size>933</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/chess</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/chess/game</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/Board.java</name>
+<size>4224</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/Piece.java</name>
+<size>6968</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/chess/game/gui</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/gui/ChessBoardGUI.java</name>
+<size>5171</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/chess/game/pieces</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/Bishop.java</name>
+<size>4101</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/Empty.java</name>
+<size>801</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/King.java</name>
+<size>3718</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/Knight.java</name>
+<size>4322</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/Pawn.java</name>
+<size>3370</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/Queen.java</name>
+<size>2278</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/chess/game/pieces/Rook.java</name>
+<size>3198</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/test</name>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/BishopTest.java</name>
+<size>4451</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/CheckMateTest.java</name>
+<size>3090</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/GUITest.java</name>
+<size>326</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/KingTest.java</name>
+<size>4717</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/KnightTest.java</name>
+<size>4622</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/PawnTest.java</name>
+<size>4053</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/QueenTest.java</name>
+<size>4975</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/test/RookTest.java</name>
+<size>4772</size>
+<commit
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5367">
+<author>dgupta13</author>
+<date>2014-09-26T22:38:42.514717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5367">
+<author>dgupta13</author>
+<date>2014-09-26T22:38:42.514717Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/Image</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/Image/black</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/black/bishop.png</name>
+<size>1260</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/black/king.png</name>
+<size>2267</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/black/knight.png</name>
+<size>1516</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/black/pawn.png</name>
+<size>797</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/black/queen.png</name>
+<size>2485</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/black/rook.png</name>
+<size>725</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/Image/white</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/white/bishop.png</name>
+<size>1944</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/white/king.png</name>
+<size>2637</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/white/knight.png</name>
+<size>1878</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/white/pawn.png</name>
+<size>1294</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/white/queen.png</name>
+<size>2279</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/Image/white/rook.png</name>
+<size>933</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/com</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/com/chess</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/com/chess/game</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/Board.class</name>
+<size>4428</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/Piece.class</name>
+<size>6062</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/com/chess/game/gui</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/gui/ChessBoardGUI$ButtonHandler.class</name>
+<size>5478</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/gui/ChessBoardGUI.class</name>
+<size>9517</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/com/chess/game/pieces</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/Bishop.class</name>
+<size>3415</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/Empty.class</name>
+<size>1064</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/King.class</name>
+<size>3098</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/Knight.class</name>
+<size>3351</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/Pawn.class</name>
+<size>3097</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/Queen.class</name>
+<size>2643</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/chess/game/pieces/Rook.class</name>
+<size>2659</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/com/test</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/BishopTest.class</name>
+<size>4244</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/CheckMateTest.class</name>
+<size>3340</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/GUITest.class</name>
+<size>649</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/KingTest.class</name>
+<size>4381</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/KnightTest.class</name>
+<size>4267</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/PawnTest.class</name>
+<size>3898</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/QueenTest.class</name>
+<size>5134</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/com/test/RookTest.class</name>
+<size>5029</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/gameLoop</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/gameLoop/GameLoop.class</name>
+<size>3582</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Image</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Image/black</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/black/bishop.png</name>
+<size>1260</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/black/king.png</name>
+<size>2267</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/black/knight.png</name>
+<size>1516</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/black/pawn.png</name>
+<size>797</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/black/queen.png</name>
+<size>2485</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/black/rook.png</name>
+<size>725</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Image/white</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/bishop.png</name>
+<size>1944</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/giveup.jpg</name>
+<size>929</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/king.png</name>
+<size>2637</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/knight.png</name>
+<size>1878</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/pawn.png</name>
+<size>1294</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/play.jpg</name>
+<size>941</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/queen.png</name>
+<size>2279</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/reset.png</name>
+<size>126930</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/rook.png</name>
+<size>933</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/stop.jpg</name>
+<size>1583</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Image/white/undo.jpg</name>
+<size>2281</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/chess</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/chess/game</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/Board.java</name>
+<size>4457</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/Piece.java</name>
+<size>7071</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/chess/game/gui</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/gui/ChessBoardGUI.java</name>
+<size>11701</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/chess/game/pieces</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/Bishop.java</name>
+<size>4101</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/Empty.java</name>
+<size>801</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/King.java</name>
+<size>3718</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/Knight.java</name>
+<size>4322</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/Pawn.java</name>
+<size>3459</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/Queen.java</name>
+<size>2278</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/chess/game/pieces/Rook.java</name>
+<size>3034</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/test</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/BishopTest.java</name>
+<size>4451</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/CheckMateTest.java</name>
+<size>3090</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/GUITest.java</name>
+<size>326</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/KingTest.java</name>
+<size>4717</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/KnightTest.java</name>
+<size>4622</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/PawnTest.java</name>
+<size>4097</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/QueenTest.java</name>
+<size>4975</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/test/RookTest.java</name>
+<size>4772</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/gameLoop</name>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/gameLoop/GameLoop.java</name>
+<size>2684</size>
+<commit
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2</name>
+<commit
+   revision="6126">
+<author>dgupta13</author>
+<date>2014-10-03T21:27:49.748026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/.project</name>
+<size>365</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/.pydevproject</name>
+<size>427</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2/src</name>
+<commit
+   revision="6126">
+<author>dgupta13</author>
+<date>2014-10-03T21:27:49.748026Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2/src/jsonParse</name>
+<commit
+   revision="6126">
+<author>dgupta13</author>
+<date>2014-10-03T21:27:49.748026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/jsonParse/__init__.py</name>
+<size>730</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/jsonParse/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/jsonParse/graph.py</name>
+<size>821</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/jsonParse/readData.py</name>
+<size>12693</size>
+<commit
+   revision="6126">
+<author>dgupta13</author>
+<date>2014-10-03T21:27:49.748026Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2/src/res</name>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/res/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2/src/test</name>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/test/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2/src/test/unitTests.py</name>
+<size>1101</size>
+<commit
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>365</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.pydevproject</name>
+<size>427</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src</name>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/jsonParse</name>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/QueryData.py</name>
+<size>10577</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/TravelAgent.py</name>
+<size>7341</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/datafile2.json</name>
+<size>1103</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/graph.py</name>
+<size>1987</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/output.json</name>
+<size>9385</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/readData.py</name>
+<size>5094</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/start.py</name>
+<size>1765</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/jsonParse/unitTestAgent.py</name>
+<size>1240</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/res</name>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/res/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/test</name>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/test/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/test/unitTests.py</name>
+<size>1134</size>
+<commit
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2</name>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/src</name>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/src/jsonParse</name>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/00000001.jpg</name>
+<size>20134</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/CSAirUI.py</name>
+<size>8887</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/QueryData.py</name>
+<size>11295</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/TravelAgent.py</name>
+<size>6647</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/datafile2.json</name>
+<size>1103</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/graph.py</name>
+<size>1997</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/image.gif</name>
+<size>6209</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/image2.gif</name>
+<size>143</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/output.json</name>
+<size>9506</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/readData.py</name>
+<size>5094</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/start.py</name>
+<size>3513</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/jsonParse/unitTestAgent.py</name>
+<size>1240</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/src/res</name>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/res/ManualTestPlan (1).pdf</name>
+<size>711280</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/res/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/src/test</name>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/test/datafile.json</name>
+<size>16099</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/src/test/unitTests.py</name>
+<size>1134</size>
+<commit
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+</commit>
+</entry>
+</list>
+</lists>

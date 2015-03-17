@@ -1,0 +1,13 @@
+test results:
+
+ sending a->c on simple a--b--c topology succeeded!
+ choosing the shorter of two paths succeeded!
+ failing over to the longer of two paths succeeded!
+ switching to a better path once it comes up succeeded!
+ reacting (or not) to a series of link failures, followed by one coming back up, succeeded!
+ a bunch of links going up, then down, succeeded!
+====================
+
+version:5
+score: 100/100
+all-time best score (your current grade): 100/100

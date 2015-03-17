@@ -1,0 +1,490 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+<meta http-equiv="pics-label" content='(pics-1.1
+   "http://www.icra.org/ratingsv02.html" comment "basic online form"
+   l gen true for "http://www.gcmap.com/" r (nz 1 vz 1 lz 1 oz 1 cz 1)
+   "http://www.rsac.org/ratingsv01.html"
+   l gen true for "http://www.gcmap.com/" r (n 0 s 0 v 0 l 0))'>
+<link rel="icon" href="/icon-48.png" sizes="48x48" type="image/png">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link href="/style.css" rel="stylesheet" type="text/css">
+<link href="/mapui.css" rel="stylesheet" type="text/css">
+<script src="/js/frames.js" type="text/javascript"></script>
+<script src="/js/common.js" type="text/javascript"></script>
+<script src="/js/mapui.js" type="text/javascript"></script>
+<script src="/js/glue.js" type="text/javascript"></script>
+<style type="text/css">
+.knob-img { display: none; }
+.sect-hide, .item-hide { display: block; }
+.sect-show { margin-left: 0; }
+div.mr { margin-left: -1px; }
+</style>
+<meta name="description" content="A map from the Great Circle Mapper.">
+<meta name="robots" content="index,follow">
+<title>Great Circle Mapper</title>
+</head>
+<body onload="nuke_frame();">
+<div id="wrapper">
+<div id="top">
+<div class="top-advert"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- gc2-mapui-leader -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4595747994911043"
+     data-ad-slot="4982029829"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<map name="logo_map">
+<area href="/" shape="circle" coords="60,60,60" alt="home">
+</map>
+<table cellspacing=0 cellpadding=5 border=0>
+<tr valign=top>
+<td rowspan=2 valign=middle><img src="/images/logo-dash.gif" alt="Great Circle Mapper logo" width=120 height=120 border=0 usemap="#logo_map"></td>
+<td colspan=2><div class="top-title">Great Circle Mapper</div></td>
+</tr>
+<tr valign=top>
+<td><form name="dash" action="/cgi-bin/gc2q" method="GET" class="top"><table cellspacing=0 cellpadding=5 border=0>
+<tr>
+<td colspan=4><input type="text" name="Q" value="IST-ALG,ALG-MAD,MAD-NYC,NYC-YYZ,YYZ-CHI" size=50 class="dash-input" tabindex="1"><input type="image" name="QCM" value="M" tabindex="2" src="/trans.gif" alt=""></td>
+</tr>
+<tr valign=top>
+<td width="25%" valign=middle align=left><input type="image" name="QCm" tabindex="3" value="Map" title="Map a path (e.g., SFO-NRT-SIN)" src="/images/dash-m-a.gif" alt="Map"></td>
+<td width="25%" valign=middle align=center><input type="image" name="QCd" tabindex="4" value="Distance" title="Calculate distances along a path (e.g., LHR-SYD" src="/images/dash-d.gif" alt="Distance"></td>
+<td width="25%" valign=middle align=center><input type="image" name="QCs" tabindex="5" value="Search" title="Search for location codes by name" src="/images/dash-s.gif" alt="Search"></td>
+<td width="25%" valign=middle align=right><input type="image" name="QCa" tabindex="6" value="Airport Info" title="Detailed information for an airport code" src="/images/dash-a.gif" alt="Airport Info"></td>
+</tr>
+</table>
+<input type="hidden" name="QD" value="M">
+</form></td>
+<td width="99%" class="dash-more"><center><div style="text-align:right;width:1%;">
+<a href="/faq" class="dash-more">FAQ</a><br>
+<a href="/featured" class="dash-more">Featured Maps</a><br>
+<a href="/more" class="dash-more">More</a><br>
+<a href="/" class="dash-strong">Home</a></div></center></td>
+</tr>
+</table><div id="horizon"><img src="/trans.gif" width=1 height=20 alt=""></div>
+</div><div id="mid">
+<script type="text/javascript"><!--
+glue_init('M',63); sect_init(); item_init();
+// --></script>
+<!-- **************************************************************** -->
+<span onclick="return sect_toggle(this,0);" class="knob" id="map"><span class="knob-img"><img src="/images/sect-hide.gif" width=12 height=12 border=0 alt="" id="map_knob">&nbsp;</span><span class="secthdr">Map</span></span><br>
+<div class="sect-show" id="map_body"><script type="text/javascript"><!--
+sect_reload("map",0);
+// --></script>
+<div class="mr"><script type="text/javascript"><!--
+mapui_mr_html("1800,1200,600:i,540,240,120,60,30,15,");
+// --></script></div><div id="map_div"><img src="/map?P=IST-ALG,ALG-MAD,MAD-NYC,NYC-YYZ,YYZ-CHI&amp;MS=wls&amp;MR=600&amp;MX=720x360&amp;PM=%2a" alt="map" id="map_image" class="map-image" width=720 height=360></div>
+<div class="ms"><script type="text/javascript"><!--
+mapui_ms_html("wls");
+// --></script></div></div>
+<!-- **************************************************************** -->
+
+<br>
+<span onclick="return sect_toggle(this,1);" class="knob" id="dist"><span class="knob-img"><img src="/images/sect-hide.gif" width=12 height=12 border=0 alt="" id="dist_knob">&nbsp;</span><span class="secthdr">Distances</span></span><br>
+<div class="sect-show" id="dist_body"><script type="text/javascript"><!--
+sect_reload("dist",1);
+// --></script>
+
+<table border=0>
+<tr valign=bottom>
+<th><u>From</u></th><td rowspan="8">&nbsp;&nbsp;</td>
+<th><u>To</u></th><td rowspan="8">&nbsp;&nbsp;</td>
+<th colspan=2>Initial<br><u>Heading</u></th><td rowspan="8">&nbsp;&nbsp;</td>
+<th><u>Distance</u></th><td rowspan="8">&nbsp;&nbsp;</td>
+</tr>
+<tr valign=baseline>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/IST" class="fn url">IST</a></span> (<abbr class="latitude" title="40.976111"></abbr>40°58'34"N  <abbr class="longitude" title="28.813889"></abbr>28°48'50"E)</span></td>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/ALG" class="fn url">ALG</a></span> (<abbr class="latitude" title="36.694444"></abbr>36°41'40"N  <abbr class="longitude" title="3.216944"></abbr>3°13'01"E)</span></td>
+<td align=right>266.2°</td>
+<td>&nbsp;(W)</td>
+<td align=right>
+1407&nbsp;mi</td>
+</tr>
+<tr valign=baseline>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/ALG" class="fn url">ALG</a></span> (<abbr class="latitude" title="36.694444"></abbr>36°41'40"N  <abbr class="longitude" title="3.216944"></abbr>3°13'01"E)</span></td>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/MAD" class="fn url">MAD</a></span> (<abbr class="latitude" title="40.493556"></abbr>40°29'37"N  <abbr class="longitude" title="-3.566763"></abbr>3°34'00"W)</span></td>
+<td align=right>307.6°</td>
+<td>&nbsp;(NW)</td>
+<td align=right>
+451&nbsp;mi</td>
+</tr>
+<tr valign=baseline>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/MAD" class="fn url">MAD</a></span> (<abbr class="latitude" title="40.493556"></abbr>40°29'37"N  <abbr class="longitude" title="-3.566763"></abbr>3°34'00"W)</span></td>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/NYC" class="fn url">NYC</a></span> (<abbr class="latitude" title="40.756"></abbr>40°45'N  <abbr class="longitude" title="-73.986"></abbr>73°59'W)</span></td>
+<td align=right>294.9°</td>
+<td>&nbsp;(NW)</td>
+<td align=right>
+3595&nbsp;mi</td>
+</tr>
+<tr valign=baseline>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/NYC" class="fn url">NYC</a></span> (<abbr class="latitude" title="40.756"></abbr>40°45'N  <abbr class="longitude" title="-73.986"></abbr>73°59'W)</span></td>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/YYZ" class="fn url">YYZ</a></span> (<abbr class="latitude" title="43.677223"></abbr>43°40'38"N  <abbr class="longitude" title="-79.630555"></abbr>79°37'50"W)</span></td>
+<td align=right>306.7°</td>
+<td>&nbsp;(NW)</td>
+<td align=right>
+353&nbsp;mi</td>
+</tr>
+<tr valign=baseline>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/YYZ" class="fn url">YYZ</a></span> (<abbr class="latitude" title="43.677223"></abbr>43°40'38"N  <abbr class="longitude" title="-79.630555"></abbr>79°37'50"W)</span></td>
+<td nowrap><span class="smaller vcard geo"><span class="fn"><a href="/airport/CHI" class="fn url">CHI</a></span> (<abbr class="latitude" title="41.883"></abbr>41°53'N  <abbr class="longitude" title="-87.631"></abbr>87°38'W)</span></td>
+<td align=right>255.8°</td>
+<td>&nbsp;(W)</td>
+<td align=right>
+425&nbsp;mi</td>
+</tr>
+<tr><td height=8 nowrap> </td></tr><tr>
+<td colspan=2>Total:</td>
+<td></td>
+<td colspan=2></td>
+<td align=right>6231&nbsp;mi</td>
+</tr>
+</table>
+</div>
+
+
+<br>
+<span onclick="return sect_toggle(this,2);" class="knob" id="dict"><span class="knob-img"><img src="/images/sect-hide.gif" width=12 height=12 border=0 alt="" id="dict_knob">&nbsp;</span><span class="secthdr">Code Dictionary</span></span><br>
+<div class="sect-show" id="dict_body"><script type="text/javascript"><!--
+sect_reload("dict",2);
+// --></script>
+
+<table border=0>
+<tr>
+<th align=left><u>Code</u></th><td rowspan="7">&nbsp;&nbsp;</td>
+<th align=left><u>Source</u></th><td rowspan="7">&nbsp;&nbsp;</td>
+<th align=left><u>Location</u></th><td rowspan="7">&nbsp;&nbsp;</td>
+</tr>
+<tr valign=top>
+<td>IST</td>
+<td>AIP</td>
+<td><a href="/airport/IST" class="locname">Istanbul [Atatürk Intl (Yesilköy Intl)], TR</a></td>
+</tr>
+<tr valign=top>
+<td>ALG</td>
+<td>AIP</td>
+<td><a href="/airport/ALG" class="locname">Algiers [Houari Boumediene Airport (Algiers Airport)], DZ</a></td>
+</tr>
+<tr valign=top>
+<td>MAD</td>
+<td>DAFIF</td>
+<td><a href="/airport/MAD" class="locname">Madrid [Adolfo Suárez Madrid-Barajas Intl], MD, ES</a></td>
+</tr>
+<tr valign=top>
+<td>NYC</td>
+<td>city</td>
+<td><a href="/airport/NYC" class="locname">New York [Metro Area], NY, US</a></td>
+</tr>
+<tr valign=top>
+<td>YYZ</td>
+<td>DAFIF</td>
+<td><a href="/airport/YYZ" class="locname">Toronto [Lester B. Pearson Intl], ON, CA</a></td>
+</tr>
+<tr valign=top>
+<td>CHI</td>
+<td>city</td>
+<td><a href="/airport/CHI" class="locname">Chicago [Metro Area], IL, US</a></td>
+</tr>
+</table>
+</div>
+
+<br>
+<span onclick="return sect_toggle(this,3);" class="knob" id="ctl"><span class="knob-img"><img src="/images/sect-hide.gif" width=12 height=12 border=0 alt="" id="ctl_knob">&nbsp;</span><span class="secthdr">Map Controls</span></span><br>
+<div class="sect-show" id="ctl_body"><script type="text/javascript"><!--
+sect_reload("ctl",3);
+// --></script>
+
+<form name="mapui" method="get" action="/mapui"
+ target="_top">
+<table cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td>
+<span onclick="return item_toggle(this,5);" class="knob" id="P"><span class="mapopt">Paths</span>&nbsp;<img src="/images/item-hide.gif" width=12 height=12 border=0 class="knob-img" alt="" id="P_knob"></span><br><div class="item-show" id="P_body"><script type="text/javascript"><!--
+item_reload("P",5);
+// --></script>
+
+<textarea name="P" cols=35 rows=6>IST-ALG,ALG-MAD,MAD-NYC,NYC-YYZ,YYZ-CHI</textarea>
+</div>
+<br>
+<center><input type="submit" value="Draw Map" onclick="javascript:mapui_submit();"></center>
+<br>
+<span onclick="return item_toggle(this,6);" class="knob" id="R"><span class="mapopt">Ranges</span>&nbsp;<img src="/images/item-hide.gif" width=12 height=12 border=0 class="knob-img" alt="" id="R_knob"></span><br><div class="item-show" id="R_body"><script type="text/javascript"><!--
+item_reload("R",6);
+// --></script>
+
+<textarea name="R" cols=35 rows=6></textarea>
+</div>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+<!-- **************** TABS **************** -->
+<!--[if IE]>
+<style type="text/css">
+UL#motabs SPAN { padding-bottom: 0.5em; }
+</style>
+<![EndIf]-->
+<div><ul id="motabs" class="dhide">
+<li><span id="mo1t" onclick="javascript:mapui_mo_pick(1);"><div><div></div></div>Markers</span>
+<li><span id="mo2t" onclick="javascript:mapui_mo_pick(2);"><div><div></div></div>Map Conf</span>
+<li><span id="mo3t" onclick="javascript:mapui_mo_pick(3);"><div><div></div></div>Dist+Time</span>
+<li><span id="mo4t" onclick="javascript:mapui_mo_pick(4);"><div><div></div></div>ETOPS</span>
+</ul>
+<div id="mobody">
+<div id="mo1">
+<table class="ctlbox" style="border:none;" cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td colspan=3 nowrap><span class="mapopt2">Simple</span>
+<br>
+<select name="PM_q" onChange="javascript:mapui_quick_marker();">
+<option value="*">(default)
+<option value="-">(none)
+<option value='b:disc7'>disc
+<option value='b:disc7+%U'>disc + user-entered code
+<option value='b:disc7+%i'>disc + ICAO/best
+<option value='b:disc7+%t'>disc + IATA/best
+<option value='b:disc7+%N'>disc + city name
+<option value='b:disc7+%A'>disc + airport name
+<option value='b:disc7+"%N%, S%, C"'>disc + city, state, country
+<option value='b:disc7+"%U% (N"'>disc + user-entered code + city name
+<option value='b:disc7+"%i% (N"'>disc + ICAO/best + city name
+<option value='b:disc7+"%t% (N"'>disc + IATA/best + city name
+</select>
+</td>
+</tr>
+<script type="text/javascript"><!--
+document.writeln('<tr valign=top><td nowrap align=left><span onclick="return item_toggle(this,7);" class="knob" id="PM_det"><span class="mapopt2">Detailed</span>&nbsp;<img src="/images/item-show.gif" width=12 height=12 border=0 class="knob-img" alt="" id="PM_det_knob"></span><br><div class="item-hide" id="PM_det_body">');
+item_reload("PM_det",7);
+mapui_markers_html();
+document.writeln('</div></td>');
+// --></script>
+</tr>
+<tr valign=top>
+<td nowrap align=left><span onclick="return item_toggle(this,8);" class="knob" id="PM_raw"><span class="mapopt2">Raw</span>&nbsp;<img src="/images/item-show.gif" width=12 height=12 border=0 class="knob-img" alt="" id="PM_raw_knob"></span><br><div class="item-hide" id="PM_raw_body"><script type="text/javascript"><!--
+item_reload("PM_raw",8);
+// --></script>
+
+<input type="text" name="PM" size=45 value="*" onchange="javascript:mapui_init();">
+<script type="text/javascript"><!--
+mapui_init();
+// --></script>
+</div>
+</td>
+</tr></table>
+</div>
+<div id="mo2">
+<span class="mapopt">Map Options</span><div class="item-show">
+<table class="ctlbox" cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Style</span>
+<br>
+<select name="MS">
+<option value="wls" selected>Plain
+<option value="wls2">Light
+<option value="bm">Blue Marble
+<option value="night">Night
+<option value="fb">Facebook
+</select>
+</td></tr>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Projection</span>
+<br>
+<select name="MP">
+<option value="" selected>Best: Rectangular or Polar
+<option value="r">Rectangular (Plate Carrée)
+<option value="p">Polar-Aspect Orthographic
+<option value="o">Orthographic
+<option value="a">Azimuthal Equidistant
+</select>
+</td></tr>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Center</span>
+<br>
+<input type="text" name="MC" size=24 value="">
+</td></tr>
+</table>
+</div>
+<br>
+<span class="mapopt">Path Options</span><div class="item-show">
+<table class="ctlbox" cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Color</span>
+<br>
+<select name="PC">
+<option value="">(auto)
+<option value="red">red
+<option value="green">green
+<option value="blue">blue
+<option value="white">white
+<option value="black">black
+<option value="cyan">cyan
+<option value="magenta">magenta
+<option value="yellow">yellow
+<option value="orange">orange
+<option value="violet">violet
+<option value="navy">navy
+</select>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td nowrap><span class="mapopt2">Width</span>
+<br>
+<input type="text" name="PW" size=1 value="">
+</td>
+<td>&nbsp;&nbsp;</td>
+<td nowrap><span class="mapopt2">Type</span>
+<br>
+<select name="PT">
+<option value="">Geodesic
+</select>
+</td>
+</tr></table>
+</div>
+<br>
+<span class="mapopt">Range Options</span><div class="item-show">
+<table class="ctlbox" cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Color</span>
+<br>
+<select name="RC">
+<option value="">(auto)
+<option value="red">red
+<option value="green">green
+<option value="blue">blue
+<option value="white">white
+<option value="black">black
+<option value="cyan">cyan
+<option value="magenta">magenta
+<option value="yellow">yellow
+<option value="orange">orange
+<option value="violet">violet
+<option value="navy">navy
+</select>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td nowrap><span class="mapopt2">Width</span>
+<br>
+<input type="text" name="RW" size=1 value="">
+</td>
+<td>&nbsp;&nbsp;</td>
+<td nowrap colspan=3><span class="mapopt2">Style</span>
+<br>
+<select name="RS">
+<option value="">(auto)
+<option value="outline">outline
+<option value="shaded">shaded
+</select>
+</td>
+</tr></table>
+</div>
+</div>
+<div id="mo3">
+<table class="ctlbox" style="border:none;" cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Units</span>
+<br>
+<select name="DU">
+<option value="mi">statute miles
+<option value="nm">nautical miles
+<option value="km">kilometers
+<option value="m">meters
+<option value="ft">feet
+<option value="furlongs">furlongs
+</select>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td nowrap><span class="mapopt2">Minimum</span>
+<br>
+<input type="text" name="DM" size=4 value="">
+</td>
+</tr>
+<tr valign=top>
+<td colspan=3 nowrap><span class="mapopt2">Ground Speed or Mach</span>
+<br>
+<input type="text" name="SG" size=4 value="">
+&nbsp;
+<select name="SU">
+<option value="mph">miles/hour
+<option value="kts">knots
+<option value="kph">km/hour
+<option value="fps">feet/second
+<option value="mach">Mach
+</select>
+</td>
+</tr></table>
+</div>
+<div id="mo4">
+<table class="ctlbox" style="border:none;" cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td nowrap><span class="mapopt2">Rule Times</span>
+<br><input type="checkbox" name="E" value="60">&nbsp;60 minutes
+<br><input type="checkbox" name="E" value="75">&nbsp;75 minutes
+<br><input type="checkbox" name="E" value="90">&nbsp;90 minutes
+<br><input type="checkbox" name="E" value="120">&nbsp;120 minutes
+<br><input type="checkbox" name="E" value="138">&nbsp;138 minutes
+<br><input type="checkbox" name="E" value="180">&nbsp;180 minutes
+<br><input type="checkbox" name="E" value="207">&nbsp;207 minutes
+<br><input type="checkbox" name="E" value="240">&nbsp;240 minutes
+<br><input type="checkbox" name="E" value="330">&nbsp;330 minutes
+</td>
+<td nowrap>&nbsp;&nbsp;</td>
+<td nowrap><span class="mapopt2">Engine-Out Speed</span>
+<br>
+<input type="text" name="EV" size=4 value="">
+&nbsp;
+<select name="EU">
+<option value="kts">knots
+<option value="mph">miles/hour
+<option value="kph">km/hour
+</select>
+<script type="text/javascript"><!--
+mapui_evu_html();
+// --></script>
+</td>
+</tr></table>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+<script type="text/javascript"><!--
+mapui_mo_init();
+// --></script>
+</td>
+</tr></table>
+</form>
+</div>
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- gc2-mapui-footer -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4595747994911043"
+     data-ad-slot="6541252786"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+
+<div class="hack">&nbsp;</div>
+</div><div id="end">
+<table cellspacing=0 cellpadding=0 border=0 class="end-text"><tr valign=top>
+<td width="99%">
+<p>
+<div class="end-legal">Information on this site may not be accurate or current
+and is not valid for flight planning or navigation.
+No warranty of fitness for any purpose is made or implied.
+Flight planning and navigation should only be done using official charts.</div>
+<p>
+Copyright&nbsp;&#169;&nbsp;1996-2014
+<a href="http://www.kls2.com/~karl/">Karl L. Swartz</a>.
+All rights reserved.
+<br>The Great Circle Mapper name and logo are trademarks of the <a href="/">Great Circle Mapper</a>.
+<br>All other trademarks mentioned herein belong to their respective owners.
+<br>Please see <a href="/credits">credits</a> for attibutions and further copyright information.
+</td>
+<td width=16 nowrap> &nbsp; </td>
+<td align=left width="1%" class="end-badges"><a href="http://www.facebook.com/gcmap"><img src="/images/fb-32.png" width=32 height=32 border=0 alt="Follow gcmap on Facebook"></a>&nbsp;<a href="http://www.twitter.com/gcmap"><img src="/images/twitter-32.png" width=32 height=32 border=0 alt="Follow gcmap on Twitter"></a>
+</td>
+</tr></table>
+</div></div></body></html>

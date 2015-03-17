@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7191">
+<author>dgupta13</author>
+<date>2014-10-16T18:33:44.977143Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2.2</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2.2/src</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2.2/src/jsonParse</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/00000001.jpg</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/jsonParse/CSAirUI.py</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/jsonParse/QueryData.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/TravelAgent.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/datafile.json</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/datafile2.json</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/graph.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/image.gif</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/jsonParse/image2.gif</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/jsonParse/output.json</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/readData.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/start.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/jsonParse/unitTestAgent.py</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2.2/src/res</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.2/src/res/ManualTestPlan (1).pdf</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/res/datafile.json</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2.2/src/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/test/datafile.json</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.2/src/test/unitTests.py</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="6611">
+<author>dgupta13</author>
+<date>2014-10-10T03:30:08.656598Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/.pydevproject</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2.1/src</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2.1/src/jsonParse</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.1/src/jsonParse/QueryData.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.1/src/jsonParse/TravelAgent.py</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/src/jsonParse/datafile.json</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/src/jsonParse/datafile2.json</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/src/jsonParse/graph.py</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/src/jsonParse/output.json</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.1/src/jsonParse/readData.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.1/src/jsonParse/start.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.1/src/jsonParse/unitTestAgent.py</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2.1/src/res</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2.1/src/res/datafile.json</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2.1/src/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/src/test/datafile.json</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2.1/src/test/unitTests.py</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="6126">
+<author>dgupta13</author>
+<date>2014-10-03T21:27:49.748026Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment2/src/jsonParse/readData.py</path>
+</paths>
+<msg>try2</msg>
+</logentry>
+<logentry
+   revision="5956">
+<author>dgupta13</author>
+<date>2014-10-03T04:01:07.868717Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment2</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/.project</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/.pydevproject</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2/src</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2/src/jsonParse</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2/src/jsonParse/__init__.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/src/jsonParse/datafile.json</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/src/jsonParse/graph.py</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/src/jsonParse/readData.py</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2/src/res</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment2/src/res/datafile.json</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment2/src/test</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/src/test/datafile.json</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment2/src/test/unitTests.py</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="5367">
+<author>dgupta13</author>
+<date>2014-09-26T22:38:42.514717Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/Doxyfile</path>
+</paths>
+<msg>try2</msg>
+</logentry>
+<logentry
+   revision="5365">
+<author>dgupta13</author>
+<date>2014-09-26T22:36:39.851152Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/bin</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/bin/Image</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/bin/Image/black</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/Image/black/bishop.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/Image/black/king.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/Image/black/knight.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/Image/black/pawn.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/Image/black/queen.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/Image/black/rook.png</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/bin/Image/white</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/Image/white/bishop.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/Image/white/king.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/Image/white/knight.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/Image/white/pawn.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/Image/white/queen.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/Image/white/rook.png</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/bin/com</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/bin/com/chess</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/bin/com/chess/game</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/Board.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/bin/com/chess/game/gui</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/chess/game/gui/ChessBoardGUI$ButtonHandler.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/chess/game/gui/ChessBoardGUI.class</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/bin/com/chess/game/pieces</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/Empty.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/King.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/Queen.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/chess/game/pieces/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/bin/com/test</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/test/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/test/CheckMateTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/test/GUITest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/test/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/test/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/test/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/com/test/QueenTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/bin/com/test/RookTest.class</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/bin/gameLoop</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/bin/gameLoop/GameLoop.class</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/src/Image</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/src/Image/black</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/black/bishop.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/black/king.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/black/knight.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/black/pawn.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/black/queen.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/black/rook.png</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/src/Image/white</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/bishop.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/giveup.jpg</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/king.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/knight.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/pawn.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/white/play.jpg</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/white/queen.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/white/reset.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/Image/white/rook.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/stop.jpg</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/Image/white/undo.jpg</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/src/com</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/src/com/chess</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.2/src/com/chess/game</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/chess/game/Board.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/Piece.java</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/src/com/chess/game/gui</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/gui/ChessBoardGUI.java</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/src/com/chess/game/pieces</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/chess/game/pieces/Empty.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/chess/game/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/pieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/chess/game/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/src/com/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/test/CheckMateTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/test/GUITest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/test/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/test/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/com/test/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/test/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.2/src/com/test/RookTest.java</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.2/src/gameLoop</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.2/src/gameLoop/GameLoop.java</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="3462">
+<author>dgupta13</author>
+<date>2014-09-17T16:01:54.545648Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.1/src/Image</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.1/src/Image/black</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/Image/black/bishop.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/Image/black/king.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/black/knight.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/black/pawn.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/black/queen.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/black/rook.png</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.1/src/Image/white</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/Image/white/bishop.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/Image/white/king.png</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/Image/white/knight.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/white/pawn.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/white/queen.png</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/Image/white/rook.png</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.1/src/com</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.1/src/com/chess</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.1/src/com/chess/game</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/chess/game/Board.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/chess/game/Piece.java</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/gui</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/gui/ChessBoardGUI.java</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.1/src/com/chess/game/pieces</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/chess/game/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/chess/game/pieces/Empty.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/chess/game/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1.1/src/com/test</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/test/CheckMateTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/test/GUITest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/test/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1.1/src/com/test/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/test/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1.1/src/com/test/RookTest.java</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="2919">
+<author>dgupta13</author>
+<date>2014-09-12T16:08:58.049650Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/.classpath</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/.project</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/.settings</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin/com</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin/com/chess</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin/com/chess/game</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Board.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Empty.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/King.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Knight.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Piece.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Queen.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/bin/com/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/CheckMateTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/RookTest.class</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/src</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/src/com</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/src/com/chess</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/src/com/chess/game</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Board.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Empty.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/King.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Knight.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Piece.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Queen.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/src/com/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/test/CheckMateTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/test/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/test/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/test/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/test/RookTest.java</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="2918">
+<author>dgupta13</author>
+<date>2014-09-12T16:07:22.082474Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/dgupta13/Assignment1</path>
+</paths>
+<msg>fd</msg>
+</logentry>
+<logentry
+   revision="2917">
+<author>dgupta13</author>
+<date>2014-09-12T16:04:36.931669Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/CheckMateTest.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/KnightTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/QueenTest.class</path>
+</paths>
+<msg>d</msg>
+</logentry>
+<logentry
+   revision="2915">
+<author>dgupta13</author>
+<date>2014-09-12T16:01:51.143720Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/bin/com/chess/game/Bishop.class</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/bin/com/chess/game/Board.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Empty.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/King.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Knight.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Pawn.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Piece.class</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/bin/com/chess/game/Queen.class</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/bin/com/chess/game/Rook.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/test/PawnTest.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/bin/com/test/RookTest.class</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Board.java</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Empty.java</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/src/com/chess/game/King.java</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/src/com/chess/game/Knight.java</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Piece.java</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Queen.java</path>
+<path
+   action="M"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Rook.java</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/src/com/test/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/dgupta13/Assignment1/src/com/test/RookTest.java</path>
+</paths>
+<msg>try2</msg>
+</logentry>
+<logentry
+   revision="2046">
+<author>dgupta13</author>
+<date>2014-09-07T21:07:32.486577Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/.classpath</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/.project</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/.settings</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/bin</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin/com</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin/com/chess</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/bin/com/chess/game</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Board.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Empty.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/King.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Knight.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Piece.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/chess/game/Queen.class</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/chess/game/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/bin/com/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/bin/com/test/PawnTest.class</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/bin/com/test/RookTest.class</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/src</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/src/com</path>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment1/src/com/chess</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/src/com/chess/game</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Board.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Empty.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/King.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Knight.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/chess/game/Piece.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Queen.java</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/chess/game/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/dgupta13/Assignment1/src/com/test</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment1/src/com/test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment1/src/com/test/RookTest.java</path>
+</paths>
+<msg>try1</msg>
+</logentry>
+<logentry
+   revision="1144">
+<author>dgupta13</author>
+<date>2014-09-04T15:12:45.681740Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13/Assignment0</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment0/Makefile</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment0/dvector.c</path>
+<path
+   kind="file"
+   action="A">/dgupta13/Assignment0/mp3_code.c</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment0/partner.txt</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment0/results.txt</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment0/teamname.txt</path>
+<path
+   action="A"
+   kind="file">/dgupta13/Assignment0/version.txt</path>
+</paths>
+<msg>Assign0 submission</msg>
+</logentry>
+<logentry
+   revision="30">
+<author>root</author>
+<date>2014-09-02T17:45:13.051226Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dgupta13</path>
+</paths>
+<msg>created directory dgupta13</msg>
+</logentry>
+</log>
