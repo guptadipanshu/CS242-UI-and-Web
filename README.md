@@ -1,4 +1,7 @@
 # UI-and-Web
+
+MVC architecture and UNIT Testing are major features
+
 Assignment 1 is a UI based chess game in java with Unit tests
 
 Assignment 2 is an airline travel reservation system in python with JSON parsing and UI
