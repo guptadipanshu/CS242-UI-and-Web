@@ -5,5 +5,5 @@ Assignment 2 is an airline travel reservation system in python with JSON parsing
 
 Assignment 3 is code for my personal website that uses PHP And sql 
 
-Final Project is an web based chat engine to exchange text messages between users, it uses JAVA,PYTHON,MOGODB 
+Final Project is an web based chat engine that records chat and exchange text messages between users, it uses JAVA,PYTHON,MONGODB 
 AND JAVA UI to enable multi user chat.
